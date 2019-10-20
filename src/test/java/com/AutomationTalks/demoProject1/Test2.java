@@ -18,7 +18,7 @@ public class Test2 {
         System.setProperty("webdriver.chrome.driver","P:\\2. Selenium Data\\Drivers\\chromedriver.exe");
      //   WebDriver driver = new ChromeDriver(capabilities);
       //  driver.get("https://chercher.tech");
-       // System.out.println(driver.getTitle());
+       // System.out.println(driver.getTitle());123
         
         
         System.setProperty("webdriver.gecko.driver","P:\\2. Selenium Data\\Drivers\\geckodriver.exe");
